@@ -77,18 +77,7 @@ greet("Markdown")
 
 ---
 
-## 9. Tables
-
-| Feature       |  Notes                      |
-| ------------- |  -------------------------- |
-| Headers       | Six levels                  |
-| Bold/Italic   | Combined supported          |
-| Images/Links  | Inline and reference style  |
-| Code Blocks   | Fenced and inline           |
-
----
-
-## 10. Task Lists
+## 9. Task Lists
 
 - [x] Item 1
 - [x] Item 2
@@ -96,17 +85,10 @@ greet("Markdown")
 
 ---
 
-## 11. HTML Inside Markdown
+## 10. HTML Inside Markdown
 
-<div style="background-color:#f0f0f0; padding:10px;">
+<div style="padding:10px;">
   <strong>HTML works too!</strong> You can mix HTML in Markdown for custom formatting.
 </div>
 
----
-
-## 12. Footnotes
-
-Here is a statement with a footnote.[^1]
-
-[^1]: This is the footnote text.
 
